@@ -1,4 +1,15 @@
 {
 	"projectName": "Virtual-Coffee/virtualcoffee.io",
-	"projectOwner": "BekahHW"
+	"projectOwner": "BekahHW",
+	"repoType": "github",
+	"repoHost": "https://github.com",
+	"contributorsPerLine": 7,
+	"linkToUsage": true,
+	"files": [
+		"README.md"
+	],
+	"imageSize": 100,
+	"commit": true,
+	"commitConvention": "angular",
+	"contributors": []
 }

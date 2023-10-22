@@ -207,3 +207,14 @@ const newsletters = [
 Every month, our monthly challenge page will need to move the current challenge to the main portion of the list, and add the new challenge to the current challenge section.
 
 To make the updates, go to `app/routes/__frontend/monthlychallenges/index.tsx`
+
+## Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->

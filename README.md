@@ -216,7 +216,7 @@ To make the updates, go to `app/routes/__frontend/monthlychallenges/index.tsx`
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://danott.dev"><img src="https://avatars.githubusercontent.com/u/360261?v=4?s=100" width="100px;" alt="Dan Ott"/><br /><sub><b>Dan Ott</b></sub></a><br /><a href="#design-danieltott" title="Design">🎨</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://bekahhw.github.io/"><img src="https://avatars.githubusercontent.com/u/34313413?v=4?s=100" width="100px;" alt="BekahHW"/><br /><sub><b>BekahHW</b></sub></a><br /><a href="https://github.com/CBID2/Virtual-Coffee-test-repo/commits?author=BekahHW" title="Documentation">📖</a></td>
     </tr>
   </tbody>
   <tfoot>

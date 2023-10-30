@@ -1,15 +1,26 @@
 {
-	"projectName": "Virtual-Coffee/virtualcoffee.io",
-	"projectOwner": "BekahHW",
-	"repoType": "github",
-	"repoHost": "https://github.com",
-	"contributorsPerLine": 7,
-	"linkToUsage": true,
-	"files": [
-		"README.md"
-	],
-	"imageSize": 100,
-	"commit": true,
-	"commitConvention": "angular",
-	"contributors": []
+  "projectName": "Virtual-Coffee-test-repo",
+  "projectOwner": "CBID2",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "contributorsPerLine": 7,
+  "linkToUsage": true,
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "danieltott",
+      "name": "Dan Ott",
+      "avatar_url": "https://avatars.githubusercontent.com/u/360261?v=4",
+      "profile": "https://danott.dev",
+      "contributions": [
+        "design"
+      ]
+    }
+  ],
+  "commitType": "docs"
 }

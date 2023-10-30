@@ -13,6 +13,12 @@
   "commitConvention": "angular",
   "contributors": [
     {
+      "login": "danieltott",
+      "name": "Dan Ott",
+      "avatar_url": "https://avatars.githubusercontent.com/u/360261?v=4",
+      "profile": "https://danott.dev",
+      "contributions": [
+        "design"
       "login": "BekahHW",
       "name": "BekahHW",
       "avatar_url": "https://avatars.githubusercontent.com/u/34313413?v=4",
